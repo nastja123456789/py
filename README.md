@@ -13,7 +13,7 @@ def test_list_methods():
     assert numbers_copy == ['1', '2', '3', '4', '5', '6', '7', '8']
     
    
-def test_dictionary():
+def test_dictionary_methods():
    
     numbers_dictionary = {
         'one': '1',
