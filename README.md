@@ -1,6 +1,7 @@
 import pytest
 
 def test_list_methods():
+
     numbers = ['1', '2', '3', '4', '5', '6', '7']
     numbers.append('8')
     assert numbers == ['1', '2', '3', '4', '5', '6', '7', '8']
